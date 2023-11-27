@@ -31,7 +31,7 @@ const Featured = () => {
               </h1>
               <p className="p-4 xl:p-8">{item.desc}</p>
               <span className="text-xl  font-bold">${item.price}</span>
-              <button className="rounded-md bg-red-500 px-2 py-1 text-white  xl:text-lg">
+              <button className=" bg-red-500 px-4 py-2 text-white  xl:text-lg">
                 Add to Cart
               </button>
             </div>
